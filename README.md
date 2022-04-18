@@ -1,5 +1,5 @@
 # Basic Banking System - The Sparks Foudation
-Dynamic Website used to transfer money between users for the internship program.
+Dynamic Website used to transfer money between users for Graduate Rotational Internship Program (GRIP).
  
 --> Front-end : HTML, CSS, Bootstrap & Javascript
 
